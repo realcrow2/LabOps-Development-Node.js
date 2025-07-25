@@ -1,0 +1,41 @@
+{
+  "logChannelId": "",
+
+  "GlobalLink_log": "",
+
+  "RoleRequestApprover": "",
+  "RoleRequestLogChannel": "",
+  "RoleRequestApproveChannel": "",
+
+  "AssignRolePermsRoleID": "",
+  "AssignRoleLogChannel": "",
+  "UnassignRoleLogChannel": "",
+
+  "ModerationRoleID": "",
+  "ModerationLogsChannel": "",
+
+  "ClearLogsChannel": "",
+  "ClearRoleID": "",
+
+  "MuteRoleID": "",
+  "MuteLogsChannel": "",
+
+  "UnmuteRoleID": "",
+  "UnmuteLogsChannel": "",
+
+  "VerifyRoleID": "",
+
+  "LockLogsChannelID": "",
+  "LockRoleIDs": ["", ""],
+
+  "SlowModLogChannelID": "",
+  "SlowModeRoleID": ["", ""],
+
+  "BlackListPermsRoleID": "",
+  "BlackListLogChannelID": "",
+  "BlackListRoleID": "",
+  "MemberRoleID": "",
+
+  "AltFlagChannelID": "",
+  "AltDetectionFlagRoleID": ""
+}
