@@ -6,6 +6,7 @@ Do these commands in your CMD Directory to the folder you downloaded
 `npm init -y`
 `npm install discord.js`
 `npm install dotenv`
+After that run your bot `node index.js`
 
 ## Features
 
