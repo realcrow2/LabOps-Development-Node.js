@@ -1,6 +1,12 @@
 # ! LabOps Development (Node.js)
 `Node.js v18+`
 
+Do these commands in your CMD Directory to the folder you downloaded
+
+`npm init -y`
+`npm install discord.js`
+`npm install dotenv`
+
 ## Features
 
 * 🌐 Global Ban/Timeout/Kick Commands Across Servers
